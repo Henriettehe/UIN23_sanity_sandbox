@@ -11,6 +11,12 @@ export default {
         }, 
 
         {
+            name: 'slug',
+            type: 'slug',
+            title: 'URL-tittel'
+        },
+
+        {
             name: 'price',
             type: 'number',
             title: 'Pris' 
